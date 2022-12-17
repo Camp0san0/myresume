@@ -1,0 +1,29 @@
+body{
+	background-image: url('flower.jpg');
+}
+h1{
+	font-size: 3em;
+	font-family: sans-serif;
+	text-align: center;
+}
+table,tr,th,td{
+	border: solid black;
+	width: 75%;
+	margin: auto;
+	border-radius: 5px;
+}
+body{
+	background-color: rgb(67, 154, 151);
+}
+thead{
+	background-color: rgb(151, 222, 206);
+}
+tbody{
+	background-color: rgb(151, 222, 206);
+}
+tfoot{
+	background-color: rgb(59, 172, 182);
+}
+table{
+	background-color: gray;
+}
